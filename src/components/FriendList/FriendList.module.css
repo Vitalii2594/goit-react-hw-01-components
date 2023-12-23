@@ -9,7 +9,7 @@
 .friendItem {
   display: flex;
   flex-direction: row;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   padding: 15px 15px;
   box-shadow: 0 0 5px 1px #c8c8c8;
